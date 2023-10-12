@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephenkenneth
-- 👀 I’m interested in ...
+- 👀 I’m interested in football
 - 🌱 I’m currently learning python&C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me stephen_kenneth@outlook.com
